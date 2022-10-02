@@ -1,0 +1,15 @@
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/bin/Debug/net6.0/task2
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/bin/Debug/net6.0/task2.deps.json
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/bin/Debug/net6.0/task2.dll
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/bin/Debug/net6.0/task2.pdb
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.dll
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/refint/task2.dll
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.pdb
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Volumes/Macintosh HD Vik/DATA исследователь/GEEK/Знакомство с языками программирования C#/Семинар 1/HomeWork/Introduction C#/seminar1/task2/obj/Debug/net6.0/ref/task2.dll
